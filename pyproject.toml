@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<o_teu_utilizador>/apc-ups-security-auditor"
+Homepage = "https://github.com/hacktivism-github/apc_ups_security_auditor"
 
 [project.scripts]
 apc-ups-audit = "apc_ups_security_auditor.cli:main"
