@@ -337,7 +337,7 @@ def main():
         default=30.0,
         help="Timeout (seconds) for page loads and login (default: 30).",
     )
-        parser.add_argument(
+    parser.add_argument(
         "--auto-change",
         action="store_true",
         help="Automatically change password on hosts with default credentials, without prompting.",
